@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Angelo 👋
 
 <!--
 **noxolica/noxolica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've been in the software development industry for 4+ years doing full stack and internal tooling development. I'm at a point where I've produced software that uses message queues, caching servers, pub/sub patterns, and machine learning in a commercial setting. Based in Vancouver, Canada.
+
+- 🔭 I’m currently working on my AWS developer certification.
+- 🌱 I’m currently learning how to write tests with Jest and just more frontend and backend testing.
+- ⚡ Fun fact: I once tried to create an alternative healthcare startup but failed because startups are damn hard to do.
+
+![Angelo's Github stats](https://github-readme-stats.vercel.app/api?username=noxolica&show_icons=true&theme=radical)
