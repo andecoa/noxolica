@@ -22,3 +22,5 @@ I've been in the software development industry for 4+ years doing full stack and
 - ⚡ Fun fact: I once tried to create an alternative healthcare startup but failed because startups are damn hard to do.
 
 ![Angelo's Github stats](https://github-readme-stats.vercel.app/api?username=noxolica&show_icons=true&theme=radical)
+![Angelo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noxolica&layout=compact&theme=radical)
+![Angelo's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=noxolica)
