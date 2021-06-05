@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I've been in the software development industry for 4+ years doing full stack and internal tooling development. I'm at a point where I've produced software that uses message queues, caching servers, pub/sub patterns, and machine learning in a commercial setting. Based in Vancouver, Canada.
 
 <!-- BLOG-POST-LIST:START -->
+- [Really useful VS Code key bindings and format on save](https://aldecoa.xyz/vs-code-key-bindings)
 <!-- BLOG-POST-LIST:END -->
 
 - **Roast my resume:** [tell me feedback](https://flowcv.io/resume/feedback/dAVvUzcKnpPT)
